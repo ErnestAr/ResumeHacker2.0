@@ -101,7 +101,7 @@ export default function Templates() {
                       <CardActionArea>
                         <CardMedia
                           className={classes.media}
-                          image="public/images/templategreen.png"
+                          image="./templategreen.png"
                           title="Contemplative Reptile"
                         />
                         <CardContent>
@@ -126,7 +126,7 @@ export default function Templates() {
                         <CardActionArea>
                           <CardMedia
                             className={classes.media}
-                            image="public/images/templateblue.png"
+                            image="./templateblue.png"
                             title="Contemplative Reptile"
                           />
                           <CardContent>
