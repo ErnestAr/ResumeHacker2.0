@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ResumeHacker2.0/static/css/main.85b1e95e.chunk.css",
+    "main.js": "/ResumeHacker2.0/static/js/main.44d5258f.chunk.js",
+    "main.js.map": "/ResumeHacker2.0/static/js/main.44d5258f.chunk.js.map",
+    "runtime-main.js": "/ResumeHacker2.0/static/js/runtime-main.1f879ea8.js",
+    "runtime-main.js.map": "/ResumeHacker2.0/static/js/runtime-main.1f879ea8.js.map",
+    "static/css/2.818011ed.chunk.css": "/ResumeHacker2.0/static/css/2.818011ed.chunk.css",
+    "static/js/2.b640bd29.chunk.js": "/ResumeHacker2.0/static/js/2.b640bd29.chunk.js",
+    "static/js/2.b640bd29.chunk.js.map": "/ResumeHacker2.0/static/js/2.b640bd29.chunk.js.map",
+    "index.html": "/ResumeHacker2.0/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/ResumeHacker2.0/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.85b1e95e.chunk.css.map": "/ResumeHacker2.0/static/css/main.85b1e95e.chunk.css.map",
+    "static/js/2.b640bd29.chunk.js.LICENSE.txt": "/ResumeHacker2.0/static/js/2.b640bd29.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f879ea8.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.b640bd29.chunk.js",
+    "static/css/main.85b1e95e.chunk.css",
+    "static/js/main.44d5258f.chunk.js"
+  ]
+}
