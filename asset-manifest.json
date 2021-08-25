@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ResumeHacker2.0/static/css/main.85b1e95e.chunk.css",
-    "main.js": "/ResumeHacker2.0/static/js/main.c2362b6a.chunk.js",
-    "main.js.map": "/ResumeHacker2.0/static/js/main.c2362b6a.chunk.js.map",
+    "main.js": "/ResumeHacker2.0/static/js/main.98203dc2.chunk.js",
+    "main.js.map": "/ResumeHacker2.0/static/js/main.98203dc2.chunk.js.map",
     "runtime-main.js": "/ResumeHacker2.0/static/js/runtime-main.1f879ea8.js",
     "runtime-main.js.map": "/ResumeHacker2.0/static/js/runtime-main.1f879ea8.js.map",
     "static/css/2.818011ed.chunk.css": "/ResumeHacker2.0/static/css/2.818011ed.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.818011ed.chunk.css",
     "static/js/2.b640bd29.chunk.js",
     "static/css/main.85b1e95e.chunk.css",
-    "static/js/main.c2362b6a.chunk.js"
+    "static/js/main.98203dc2.chunk.js"
   ]
 }
