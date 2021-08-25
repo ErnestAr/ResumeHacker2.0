@@ -544,7 +544,7 @@ export default class ResumeForm extends React.Component {
                fullWidth
                autoFocus  
                label="Institution program"
-               name="\program"
+               name="program"
                onChange={this.handleChange}
              />
            </Grid>

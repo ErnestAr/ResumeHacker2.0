@@ -220,7 +220,7 @@ export default function cssTemp1(data) {
                             color: #9099a0;
                             font-weight: 300;
                             min-height: 100%;
-                            min-height: 100vh;
+                            min-height: 150vh;
                         }
                         @media (max-width: 850px) {
                             .experience {
@@ -236,7 +236,7 @@ export default function cssTemp1(data) {
                             font-weight: 400;
                         }
                         .experience .company-wrapper {
-                            width: 30%;
+                            width: 35%;
                             float: left;
                             text-align: left;
                             padding-right: 5%;
@@ -249,7 +249,7 @@ export default function cssTemp1(data) {
                         }
                         }
                         .experience .job-wrapper {
-                            width: 70%;
+                            width: 65%;
                             float: left;
                             text-align: left;
                             padding-right: 5%;
