@@ -16,6 +16,9 @@ import ListItemText from '@material-ui/core/ListItemText';
 import Divider from '@material-ui/core/Divider';
 import {BsCircleFill} from 'react-icons/bs';
 import {VscTasklist} from 'react-icons/vsc'
+import templategreen from "../images/templategreen.png"
+import templateblue from "../images/templateblue.png"
+
 
 const useStyles = makeStyles({
   root: {
@@ -92,16 +95,16 @@ export default function Templates() {
                 </Grid>
                 <Grid item xs={11}>
                 <h2  >Select Template</h2>
-                 </Grid>
-                 <Grid item xs={11}>
-                 <Divider/>
-                 </Grid>
+                </Grid>
+                <Grid item xs={11}>
+                <Divider/>
+                </Grid>
                   <Grid item xs={11} sm={5} md={5} className="text-color" >
                     <Card className={classes.root}>
                       <CardActionArea>
                         <CardMedia
                           className={classes.media}
-                          image="./templategreen.png"
+                          image={templategreen}
                           title="Contemplative Reptile"
                         />
                         <CardContent>
@@ -126,7 +129,7 @@ export default function Templates() {
                         <CardActionArea>
                           <CardMedia
                             className={classes.media}
-                            image="./templateblue.png"
+                            image={templateblue}
                             title="Contemplative Reptile"
                           />
                           <CardContent>
