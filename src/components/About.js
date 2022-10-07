@@ -75,7 +75,6 @@ export default function About() {
         }
     return (
     <div > 
-
     <Grid container className={classes.contact} justifyContent="center"  alignItems="stretch" spacing={2} >
         <Grid className={classes.text} item xs={12} container >
             <Typography className={classes.text1} variant="h4" component="h1" item>
