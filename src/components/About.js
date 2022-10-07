@@ -65,7 +65,7 @@ export default function About() {
     function sendEmail(event) {
         event.preventDefault();
       
-        emailjs.sendForm('gmail', 'template_jf81ad5', event.target, 'user_m9PsZUIIzjvuJYoYH2mtO')
+        emailjs.sendForm( 'service_cojxo8n', "template_en41639", event.target, 'user_aNIRPce2J8al2qImJFSP9')
           .then((result) => {
               console.log(result.text);
           }, (error) => {
